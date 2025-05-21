@@ -107,7 +107,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1372-l552zeq-c02_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32L552ZETxQ"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32L5x2"/>
       <feature type="ODbg"        n="1"             name="On-board ST-LINK/V2-1"/>
       <feature type="XTAL"        n="16000000"      name="16 MHz Crystal Oscillator"/>
       <feature type="PWR"         n="5"             name="USB VBUS, ext. VIN, ext. 5V, ext +3.3V, 5V_USB_C"/>
