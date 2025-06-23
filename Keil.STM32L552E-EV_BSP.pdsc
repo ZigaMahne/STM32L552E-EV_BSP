@@ -21,8 +21,6 @@
       - rename thread IDs
       - modify app_main_thread (replace loop forever)
       - add DWARF-5 debug information
-      - updated settings in vcpkg-configuration.json file to use cmsis-toolbox 2.9.0
-      - modified the Test-Examples.yml workflow
       - added Blinky+STM32L552E-EV.dbgconf and Blinky+STM32L552E-EV.dbgconf.base@1.0.0 to the Blinky example
     </release>
     <release version="1.1.0" date="2021-12-15">
