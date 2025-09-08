@@ -20,8 +20,9 @@
       - specify thread names using thread attributes
       - rename thread IDs
       - modify app_main_thread (replace loop forever)
+      - add dbgconf files
       - add DWARF-5 debug information
-      - added Blinky+STM32L552E-EV.dbgconf and Blinky+STM32L552E-EV.dbgconf.base@1.0.0 to the Blinky example
+      - add generated output files
     </release>
     <release version="1.1.0" date="2021-12-15">
       Synchronize with STM32CubeL5 Firmware Package version V1.4.0
